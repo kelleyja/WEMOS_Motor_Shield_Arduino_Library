@@ -1,9 +1,10 @@
 {
   "name": "WemosMotor",
+  "version": "1.0.0",
   "keywords": "wemos, motor, shield, wemosMini, stepper",
   "description": "Arduino library for the WEMOS Motor Shiled - a shield for D1 mini, i2c interface, based TB6612",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
+    "url": "https://github.com/kelleyja/WEMOS_Motor_Shield_Arduino_Library/"
   },
